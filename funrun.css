@@ -1,0 +1,49 @@
+body {
+  background-color: #0979D0;
+}
+
+h1, h2 {
+  color: #022806;
+}
+
+#navigation ul {
+  list-style-type: none;
+  border: solid 1px black;
+  background-color: #2787D1;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#navigation li {
+  display: inline;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#navigation a {
+  text-decoration: none;
+  color: white;
+}
+
+#navigation a:hover {
+  color: #439bd6;
+}
+#navigation li:hover {
+  background-color: white;
+}
+
+p {
+  font-style: italic;
+  font-weight: bold;
+}
+
+table {
+  border: 1px black solid;
+}
+
+td {
+  border: 1px black solid;
+  text-align: center;
+}
